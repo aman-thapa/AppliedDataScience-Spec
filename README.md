@@ -1,2 +1,4 @@
 # AppliedDataScience-Cousera
-Applied Data Science with Python by Coursera
+
+## Introduction to Data Science using Python
+* Intro to Data Science and Numpy
