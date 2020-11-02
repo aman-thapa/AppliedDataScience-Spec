@@ -13,6 +13,7 @@
 * Charting Fundamentals
 * Applied Visualizations
 ---
-** IDE:** [Anaconda](https://docs.continuum.io/anaconda/install/)
+**IDE:** [Anaconda](https://docs.continuum.io/anaconda/install/)
+
 ---
 **My LinkedIn Profile:** [Aman Thapa](https://www.linkedin.com/in/aman-thapa-6a35571a2/)
